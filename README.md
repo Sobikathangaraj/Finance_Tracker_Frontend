@@ -19,7 +19,7 @@ frontend/
     ── index.css
     ── main.jsx
     ── components/
-│         ── Layout.jsx
+          ── Layout.jsx
     ── pages/
           ── Login.jsx
           ── Dashboard.jsx
